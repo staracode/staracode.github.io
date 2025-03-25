@@ -82,7 +82,7 @@ languageName = "English"
 
     title = ""
 
-
+[params]
 [params.social]
 
   [params.social.Mastodon]
@@ -103,7 +103,13 @@ languageName = "English"
 
     title = "BlueSky"
 
+[params.author]
+    name = "Tara Friedrich"
+    email = "tfriedrich.solutions@gmail.com"
+    bio = "A brief description of yourself."
+    avatar = "images/Tara.jpg"
 # Markup related configuration in Hugo
+
 
 [markup]
 
@@ -115,7 +121,3 @@ languageName = "English"
 
     noClasses = false
 
-[params.author]
-    name = "Tara Friedrich"
-    email = "tfriedrich.solutions@gmail.com"
-    link = "my-new-page.md"
