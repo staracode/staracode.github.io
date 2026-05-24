@@ -19,26 +19,26 @@
   <rect x="64" y="64" width="1072" height="502" rx="24" fill="#000000" fill-opacity=".34" stroke="#ffffff" stroke-opacity=".16" filter="url(#shadow)"/>
   <rect x="94" y="104" width="92" height="4" fill="url(#accent)"/>
 
-  <text x="96" y="166" fill="#ffb36c" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="3">
+  <text x="96" y="166" fill="#ffb36c" font-family="Space Grotesk, Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="3">
     BIOINFORMATICS DATA SCIENTIST AND ENGINEER
   </text>
-  <text x="96" y="244" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">
+  <text x="96" y="244" fill="#ffffff" font-family="Space Grotesk, Arial, Helvetica, sans-serif" font-size="66" font-weight="700">
     Tara Friedrich, PhD
   </text>
-  <text x="96" y="324" fill="#dce1ea" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="500">
+  <text x="96" y="324" fill="#dce1ea" font-family="IBM Plex Sans, Arial, Helvetica, sans-serif" font-size="34" font-weight="500">
     Scalable genomic analysis workflows
   </text>
-  <text x="96" y="372" fill="#dce1ea" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="500">
+  <text x="96" y="372" fill="#dce1ea" font-family="IBM Plex Sans, Arial, Helvetica, sans-serif" font-size="34" font-weight="500">
     for interpretable disease insights
   </text>
 
-  <text x="96" y="474" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+  <text x="96" y="474" fill="#ffffff" font-family="IBM Plex Sans, Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
     Genomic pipelines · Translational datasets · Cloud/HPC workflows
   </text>
-  <text x="96" y="512" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+  <text x="96" y="512" fill="#ffffff" font-family="IBM Plex Sans, Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
     Statistical modeling · Scientific software
   </text>
-  <text x="96" y="536" fill="#ffb36c" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
-    tarafriedrich.com
+  <text x="96" y="546" fill="#ffb36c" font-family="IBM Plex Sans, Arial, Helvetica, sans-serif" font-size="21" font-weight="700">
+    tarafriedrich.com · GitHub · LinkedIn · Scholar · Bluesky
   </text>
 </svg>
