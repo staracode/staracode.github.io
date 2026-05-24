@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="overlay" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#07111c" stop-opacity=".88"/>
+      <stop offset=".55" stop-color="#111827" stop-opacity=".76"/>
+      <stop offset="1" stop-color="#24130a" stop-opacity=".64"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ffb36c"/>
+      <stop offset="1" stop-color="#ffd2a8"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity=".34"/>
+    </filter>
+  </defs>
+
+  <image href="background.jpg" x="0" y="0" width="1200" height="630" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1200" height="630" fill="url(#overlay)"/>
+  <rect x="64" y="64" width="1072" height="502" rx="24" fill="#000000" fill-opacity=".34" stroke="#ffffff" stroke-opacity=".16" filter="url(#shadow)"/>
+  <rect x="94" y="104" width="92" height="4" fill="url(#accent)"/>
+
+  <text x="96" y="166" fill="#ffb36c" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="3">
+    BIOINFORMATICS DATA SCIENTIST AND ENGINEER
+  </text>
+  <text x="96" y="244" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">
+    Tara Friedrich, PhD
+  </text>
+  <text x="96" y="324" fill="#dce1ea" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="500">
+    Scalable genomic analysis workflows
+  </text>
+  <text x="96" y="372" fill="#dce1ea" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="500">
+    for interpretable disease insights
+  </text>
+
+  <text x="96" y="474" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    Genomic pipelines · Translational datasets · Cloud/HPC workflows
+  </text>
+  <text x="96" y="512" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    Statistical modeling · Scientific software
+  </text>
+  <text x="96" y="536" fill="#ffb36c" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+    tarafriedrich.com
+  </text>
+</svg>
